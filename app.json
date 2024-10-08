@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "react-native-zustand-mmkv",
-    "slug": "react-native-zustand-mmkv",
+    "name": "react-native-zustand-template",
+    "slug": "react-native-zustand-template",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -26,9 +26,7 @@
       "output": "static",
       "favicon": "./assets/images/favicon.png"
     },
-    "plugins": [
-      "expo-router"
-    ],
+    "plugins": ["expo-router"],
     "experiments": {
       "typedRoutes": true
     }
